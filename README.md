@@ -1,4 +1,4 @@
-# 🏥 Medicine Prescription Chatbot Using Machine Learning and Deep Learning
+# 🏥 Medicine Prescription Chatbot Using Machine Learning
 
 ## 📌 Project Overview
 This project presents an **AI-powered medical chatbot** that assists users in obtaining **medicine recommendations** based on symptoms. By leveraging **Natural Language Processing (NLP) and Machine Learning (ML)**, the chatbot provides context-aware responses with high accuracy. The model is optimized for precision and recall, ensuring **reliable** and **safe** recommendations.
