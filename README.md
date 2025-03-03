@@ -75,4 +75,4 @@ npm run dev
 We welcome contributions! Feel free to open **issues** or submit **pull requests**.
 
 ## 📜 License
-This project is **open-source** under the **MIT License**. See [LICENSE](#) for details.
+This project is **open-source** under the **MIT License**.
