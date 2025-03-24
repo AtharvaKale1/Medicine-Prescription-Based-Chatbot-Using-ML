@@ -32,7 +32,6 @@ Our model outperforms traditional techniques with an **F1 Score of 0.95**, ensur
 | Mistral 8x7B | 0.85 | 0.95 | 0.80 | 0.87 |
 
 ![image](https://github.com/user-attachments/assets/186e55bb-0632-49f0-885c-d0636e45affd)
-                                     Evaluation Results
 
 ## 📂 Project Structure
 ```
